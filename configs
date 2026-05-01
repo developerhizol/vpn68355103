@@ -1,6 +1,6 @@
-#profile-title: 🏕 Hizol VPN
+#profile-title: 🛡 StreamNet VPN
 #announce: 🌐 Интернет без ограничений. Если подписка не работает - обновите ее нажав на 🔄, иногда может помочь. #ЗаСвободныйИнтернет!
-#profile-update-interval: 1
+#profile-update-interval: 12
 
 
 vless://986fbf89-928a-4d42-b378-7e10c3009e01@germany.vpnbyhizol.tech:41125?type=tcp&encryption=none&security=reality&pbk=dD3Hb_RMIXaEFQfJEtcZlieLDhCDy2BRziZn6ACgS2U&fp=chrome&sni=www.sony.com&sid=7024&spx=%2F&flow=xtls-rprx-vision#🇩🇪 Германия
