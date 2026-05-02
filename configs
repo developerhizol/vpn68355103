@@ -3,6 +3,7 @@
 #profile-update-interval: 3
 
 vless://60f08b02-9a8e-4dbb-8ab2-0f631a01232c@germ.normbot.ru:443?security=reality&encryption=none&alpn=&fp=qq&pbk=QZ_mszIk33gaKRmr-EYBiwoQmcaY8PR5vJYjkFWRFiU&sid=6aa2d2e950441d9a&sni=germ.normbot.ru&flow=xtls-rprx-vision&type=tcp&headerType=none#🇩🇪 Германия | Быстрый
+vless://60f08b02-9a8e-4dbb-8ab2-0f631a01232c@cdn.normbot.ru:443?security=reality&encryption=none&alpn=&fp=qq&pbk=pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U&sid=b2a6e3d42f05c3d1&sni=cdn.normbot.ru&flow=xtls-rprx-vision&type=tcp&headerType=none#🇧🇾 Беларусь
 vless://60f08b02-9a8e-4dbb-8ab2-0f631a01232c@sha.normbot.ru:443?security=reality&encryption=none&alpn=&fp=qq&pbk=pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U&sid=b2a6e3d42f05c3d1&sni=sha.normbot.ru&flow=xtls-rprx-vision&type=tcp&headerType=none#🇺🇸 США | Для ИИ
 vless://60f08b02-9a8e-4dbb-8ab2-0f631a01232c@pol.normbot.ru:443?security=reality&encryption=none&alpn=&fp=qq&pbk=pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U&sid=d2232f66ea7d1a5e&sni=pol.normbot.ru&flow=xtls-rprx-vision&type=tcp&headerType=none#🇵🇱 Польша
 vless://60f08b02-9a8e-4dbb-8ab2-0f631a01232c@213.193.252.99:443?security=reality&encryption=none&alpn=&fp=qq&pbk=pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U&sid=4d2c4fa29e40fb49&sni=velik.normbot.ru&flow=xtls-rprx-vision&type=tcp&headerType=none#🇬🇧 Великобритания
