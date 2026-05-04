@@ -1,5 +1,5 @@
 #profile-title: 🛡 StreamNetVPN | FreeVPN
-#announce: 🌐 Интернет без ограничений. Если подписка не работает - обновите ее нажав на 🔄, иногда может помочь. Наш telegram бот: @StreamNetVPN_bot. #ЗаСвободныйИнтернет!
+#announce: 🌐 Интернет без ограничений. Если сервера не работают - обновите их нажав на 🔄, иногда может помочь. Наш telegram бот: @StreamNetVPN_bot. #ЗаСвободныйИнтернет!
 #profile-update-interval: 1
 
 vless://e136eb65-a979-428e-959c-a1865aec92f6@91.222.237.113:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=vk.com&fp=chrome&pbk=cKzljSufhp_TTVyy85qjeByAHzTJZB2SHxKFjHaZHwA&sid=5a8d3f#🇩🇪 Германия
