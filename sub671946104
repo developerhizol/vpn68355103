@@ -2,7 +2,7 @@
 #announce: 🌐 Интернет без ограничений. Если сервера не работают - обновите их нажав на 🔄, иногда может помочь. Наш telegram бот: @StreamNetVPN_bot. #ЗаСвободныйИнтернет!
 #profile-update-interval: 1
 
-vless://986fbf89-928a-4d42-b378-7e10c3009e01@germany.vpnbyhizol.tech:41125?type=tcp&encryption=none&security=reality&pbk=dD3Hb_RMIXaEFQfJEtcZlieLDhCDy2BRziZn6ACgS2U&fp=chrome&sni=www.sony.com&sid=7024&spx=%2F&flow=xtls-rprx-vision#🇩🇪 Германия
+vless://e31a303c-a8f0-4189-9bdf-2312d15253d2@91.222.236.64:443?flow=xtls-rprx-vision&fp=chrome&pbk=9mJq2cP3srX_6K1YfMDp1yndvo5CtgL6TEVQ8tm4fVc&security=reality&sni=www.google.com&type=tcp#🇩🇪 Германия
 vless://5e217cdf-9a6e-4ddc-84d2-ccda9e7e16fa@45.13.226.30:7443?flow=xtls-rprx-vision&fp=chrome&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&security=reality&sid=d82fb387&sni=chat.deepseek.com&type=tcp#🇩🇪 Германия
 vless://5e217cdf-9a6e-4ddc-84d2-ccda9e7e16fa@152.53.200.120:7443?flow=xtls-rprx-vision&fp=chrome&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&security=reality&sid=d82fb387&sni=chat.deepseek.com&type=tcp#🇳🇱 Нидерланды
 vless://e9888b9b-658b-4f51-94f3-b8ba80e4ef91@185.171.80.2:443?flow=xtls-rprx-vision&fp=chrome&pbk=1HeKf_8KDjfzXfUi9P7WBaGStMvr96TKdUbofpkwBzQ&security=reality&sid=8bd29483ded126b4&sni=wikihow.com&type=tcp#🇳🇱 Нидерланды
@@ -21,5 +21,5 @@ vless://45e55198-a5ad-4f19-bb39-236822141d25@188.72.103.3:443?allowInsecure=1&fp
 vless://616f5216-aaf1-4983-8c79-7ee9b2dfdf02@158.160.250.161:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=www.apple.com&pbk=z9dOqH2pEKYk8V7opl4npiUUSXzj6yRHDYj9Xl95znY&sid=b99e82f6d99f6e&spx=%2F#🇪🇺 ⚡️ Обход глушилок
 vless://616f5216-aaf1-4983-8c79-7ee9b2dfdf02@158.160.250.161:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=www.apple.com&pbk=z9dOqH2pEKYk8V7opl4npiUUSXzj6yRHDYj9Xl95znY&sid=b99e82f6d99f6e#🇪🇺 ⚡️ Обход глушилок
 vless://caa4848f-c51d-4685-93ad-b9b970df71a8@158.160.32.103:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=max.ru&pbk=Ew5a5rNW0ZLY9s4xnI3iZHbNLw2I21bp_kwa5poLcDU&sid=b2a6e3d42f05c3d1&spx=%2F#🇪🇺 ⚡️ Обход глушилок
-vless://3b92da9d-9b17-4ee3-abf8-076c7f63aece@46.243.234.141:50445?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=ios&sni=river-4-421.rtbcdn.ru&pbk=ZSzB9TQPGNcCiC0WLmciF5Jc8doJDvdRgbqTi8SCoEM&sid=a1b2c3d4e5f6789a&spx=%2F#🇪🇺 ⚡️ Обход глушилок
 vless://3b92da9d-9b17-4ee3-abf8-076c7f63aece@46.243.234.141:7443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=amedia-vod.cdnvideo.ru&pbk=ZSzB9TQPGNcCiC0WLmciF5Jc8doJDvdRgbqTi8SCoEM&sid=a1b2c3d4e5f6789a&spx=%2F#🇪🇺 ⚡️ Обход глушилок
+vless://b7d95a89-a6fc-4c47-a902-e9f9e1230b7f@46.243.234.141:7443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=amedia-vod.cdnvideo.ru&pbk=ZSzB9TQPGNcCiC0WLmciF5Jc8doJDvdRgbqTi8SCoEM&sid=a1b2c3d4e5f6789a&spx=%2F#🇪🇺 ⚡️ Обход глушилок
