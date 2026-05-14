@@ -2,7 +2,8 @@
 #announce: 🌐 Интернет без ограничений. Если сервера не работают - обновите их нажав на 🔄, иногда может помочь. Наш telegram бот: @StreamNetVPN_bot. #ЗаСвободныйИнтернет!
 #profile-update-interval: 1
 
-vless://249d2264-757d-45fd-9a8a-8720a4a5bc1a@germany.vpnbyhizol.tech:46301?type=tcp&encryption=none&security=reality&pbk=UcX5EqrKKH9BYM1cNgLSZyu3D4jBj3jMWj_zmCyM7k0&fp=chrome&sni=www.microsoft.com&sid=0c42fe5c39581902&spx=%2F&flow=xtls-rprx-vision#🇩🇪 Германия
+vless://f4a453f6-0dca-4fe2-b5f3-e68fd89d20df@gernode.lumixnet.com:443?flow=xtls-rprx-vision&fp=chrome&pbk=-U0X6cr4KpOkyLdyVto-F6JJTgy0Y5dkpm9FIRu1rhU&security=reality&sid=d620f50383558d8a&sni=gernode.lumixnet.com&type=tcp#🇩🇪 Германия
+vless://249d2264-757d-45fd-9a8a-8720a4a5bc1a@germany.vpnbyhizol.tech:46301?type=tcp&encryption=none&security=reality&pbk=UcX5EqrKKH9BYM1cNgLSZyu3D4jBj3jMWj_zmCyM7k0&fp=chrome&sni=www.microsoft.com&sid=0c42fe5c39581902&spx=%2F&flow=xtls-rprx-vision#🇩🇪 Германия | Игровой (Wi-Fi)
 vless://c8341a91-138a-4187-9f90-affcbe86b239@195.63.129.41:443?flow=xtls-rprx-vision&fp=chrome&pbk=MDv4V64RbC4OmNVTia0oT8eM5tsEFscrXCaaOZPKMSU&security=reality&sid=9b1c7e3a5d0f4826&sni=nl-vdsina3.grani.site&type=tcp#🇳🇱 Нидерланды
 vless://4a90fa8b-5ff1-401a-b985-0b969f58e7ec@95.85.246.102:443?flow=xtls-rprx-vision&fp=chrome&pbk=IS8fxs8Tr7PL9Ugx5VgqDHNQ3Ez-D-UjPaBCEtQxShA&security=reality&sid=7a1473&sni=www.microsoft.com&spx=/&type=tcp#🇵🇱 Польша
 vless://c8341a91-138a-4187-9f90-affcbe86b239@45.86.74.93:443?flow=xtls-rprx-vision&fp=chrome&pbk=Vyh7Kf4o8NdoqzGHkvZZvs_CayHEW_u7bHxl9ByGU2k&security=reality&sid=4d9c1e7a3b5f0286&sni=usa02.grani.site&type=tcp#🇺🇸 США
