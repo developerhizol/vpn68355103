@@ -3,7 +3,6 @@
 #profile-update-interval: 1
 
 
-vless://7f3921d9-196c-4116-954f-228bc2e62449@185.244.50.122:443?flow=xtls-rprx-vision&security=tls&sni=by.trustnet.sbs&type=tcp#🇧🇾 Беларусь
 vless://6c078981-6be2-440d-9d3f-57001eb0e108@94.125.103.202:443?flow=xtls-rprx-vision&fp=chrome&pbk=yBOhM43hsg1qosfN28aq_N09y8qsX4hR0Cyq_PwROCM&security=reality&sid=4060e9670be0&sni=www.icloud.com&spx=/&type=tcp#🇳🇱 Нидерланды
 vless://7f3921d9-196c-4116-954f-228bc2e62449@31.130.146.52:443?flow=xtls-rprx-vision&fp=chrome&pbk=1RNnG4-kCSRCQMqi4hzkcC4-hNT3b6gUelFPi7bNx3o&security=reality&sni=yt-tv.xtrustnet.sbs&type=tcp#🇧🇩 Бангладеш
 vless://fd56bd53-abbd-4841-b332-3a06d63ca23c@94.125.102.179:443?flow=xtls-rprx-vision&fp=chrome&pbk=5nvAsUrFIVynQK9nPwDLzhh8upfTz3VGAaBvPh0U-RY&security=reality&sid=ce41e5e590&sni=www.icloud.com:443&spx=/&type=tcp#🇵🇱 Польша
