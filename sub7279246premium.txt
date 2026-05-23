@@ -1,7 +1,13 @@
 #profile-title: 🛡 StreamNetVPN | Premium
-#announce: 🌐 Интернет без ограничений. Если сервера не работают - обновите их нажав на 🔄, иногда может помочь. Наш telegram бот: @StreamNetVPN_bot. #ЗаСвободныйИнтернет!
 #profile-update-interval: 1
-
+#subscription-userinfo: upload=0; download=0; total=0; expire=1749954800
+#sub-expire: 1
+#sub-expire-button-link: https://t.me/StreamNetVPN_bot?start=renew
+#sub-expire-button-text: 💳 Оплатить и продлить
+#sub-expired-message-text: 🚫 Подписка истекла! Нажмите кнопку ниже, чтобы оплатить и продлить доступ.
+#update-always: true
+#announce: 🌐 Интернет без ограничений. Если сервера не работают - обновите их нажав на 🔄. Наш Telegram бот: @StreamNetVPN_bot. #ЗаСвободныйИнтернет!
+#announce-type: info
 
 vless://ba895ce4-8c24-000b-9f22-81ee227c89d0@ru10.aimodelhub.top:443/?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=ru10.aimodelhub.top&pbk=jwT3lcIzJQMjzBKRNsmyRGrgaa1qNfE7pQF_nAKu0GA&sid=a73cf719b624#🇪🇺 Авто
 vless://01105b97-b774-44bc-8337-0aa49f2b4009@95.163.211.237:7433?fp=qq&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&security=reality&sid=7dbf7d3233971d5c&sni=ads.x5.ru&type=tcp#🇩🇪 Германия
