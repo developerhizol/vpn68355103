@@ -3,6 +3,7 @@
 #profile-update-interval: 1
 
 
+vless://ba895ce4-8c24-000b-9f22-81ee227c89d0@ru10.aimodelhub.top:443/?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=ru10.aimodelhub.top&pbk=jwT3lcIzJQMjzBKRNsmyRGrgaa1qNfE7pQF_nAKu0GA&sid=a73cf719b624#🇪🇺 Авто
 vless://01105b97-b774-44bc-8337-0aa49f2b4009@95.163.211.237:7433?fp=qq&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&security=reality&sid=7dbf7d3233971d5c&sni=ads.x5.ru&type=tcp#🇩🇪 Германия
 vless://249d2264-757d-45fd-9a8a-8720a4a5bc1a@germany.vpnbyhizol.tech:46301?type=tcp&encryption=none&security=reality&pbk=UcX5EqrKKH9BYM1cNgLSZyu3D4jBj3jMWj_zmCyM7k0&fp=chrome&sni=www.microsoft.com&sid=0c42fe5c39581902&spx=%2F&flow=xtls-rprx-vision#🇩🇪 Германия | Игровой (Wi-Fi)
 vless://d7cbb65d-c5b5-48bd-9d03-d9050d0ce665@193.233.217.28:8443?fp=qq&mode=multi&pbk=pkwQ6xk56XA0btFaqVOg6u49On2uoavohsxZt9L37Vk&security=reality&serviceName=xyz&sid=6b095878b6c39835&sni=eh.vk.ru&type=grpc#🇳🇱 Нидерланды
