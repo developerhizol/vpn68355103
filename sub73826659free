@@ -3,8 +3,11 @@
 #profile-update-interval: 1
 
 
-vless://ba895ce4-8c24-0004-9f22-81ee227c89d0@ru7.aimodelhub.top:443?flow=&type=xhttp&host=&path=/&mode=auto&security=reality&fp=chrome&sni=ru7.aimodelhub.top&pbk=Fe5PnOaERhhHbBXhGBEsQaRUBpSM8hCc03zOEpHz218&sid=51b784e13468#🇱🇻 Литва
-vless://ba895ce4-8c24-0002-9f22-81ee227c89d0@ru10.aimodelhub.top:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=ru10.aimodelhub.top&pbk=jwT3lcIzJQMjzBKRNsmyRGrgaa1qNfE7pQF_nAKu0GA&sid=a73cf719b624#🇹🇷 Турция
-vless://ba895ce4-8c24-0003-9f22-81ee227c89d0@ru9.aimodelhub.top:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=ru9.aimodelhub.top&pbk=jwT3lcIzJQMjzBKRNsmyRGrgaa1qNfE7pQF_nAKu0GA&sid=a73cf719b624#🇺🇸 USA
-vless://ba895ce4-8c24-0001-9f22-81ee227c89d0@ru10.aimodelhub.top:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=ru10.aimodelhub.top&pbk=jwT3lcIzJQMjzBKRNsmyRGrgaa1qNfE7pQF_nAKu0GA&sid=a73cf719b624#🇨🇭 Швейцария
-hysteria2://bBh5FL8LUjWPFUEUfzAazXQKwjF7rn2M@195.209.212.66:25080?sni=multi.fresedvpn.site&alpn=h3&allowInsecure=1#🇳🇱 Нидерланды
+vless://d56906f4-6742-4697-82f2-9354cc9d5b40@nodefulcrum.mooo.com:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=nodefulcrum.mooo.com&fp=chrome&pbk=IhbpvWBZmJEzDs4eI2zoFmL_a-1J_7Z7Sepyrn7-xF8&sid=6547735997055a35#🇩🇪Германия
+vless://d56906f4-6742-4697-82f2-9354cc9d5b40@144.31.73.130:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=nodefulcrum.mooo.com&fp=chrome&pbk=IhbpvWBZmJEzDs4eI2zoFmL_a-1J_7Z7Sepyrn7-xF8&sid=6547735997055a35#🇫🇮Финляндия
+vless://d56906f4-6742-4697-82f2-9354cc9d5b40@nodefulcrumm.mooo.com:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=nodefulcrum.mooo.com&fp=chrome&pbk=IhbpvWBZmJEzDs4eI2zoFmL_a-1J_7Z7Sepyrn7-xF8&sid=6547735997055a35#🇳🇱Нидерланды
+vless://d56906f4-6742-4697-82f2-9354cc9d5b40@botdomain.mooo.com:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=nodefulcrum.mooo.com&fp=chrome&pbk=IhbpvWBZmJEzDs4eI2zoFmL_a-1J_7Z7Sepyrn7-xF8&sid=6547735997055a35#🇫🇷Франция
+vless://d56906f4-6742-4697-82f2-9354cc9d5b40@nodedivicee.chickenkiller.com:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=nodefulcrum.mooo.com&fp=chrome&pbk=IhbpvWBZmJEzDs4eI2zoFmL_a-1J_7Z7Sepyrn7-xF8&sid=6547735997055a35#🇮🇹Италия
+vless://d56906f4-6742-4697-82f2-9354cc9d5b40@nodedivice.chickenkiller.com:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=nodefulcrum.mooo.com&fp=chrome&pbk=IhbpvWBZmJEzDs4eI2zoFmL_a-1J_7Z7Sepyrn7-xF8&sid=6547735997055a35#🇪🇪Эстония
+vless://d56906f4-6742-4697-82f2-9354cc9d5b40@nodedivicec.chickenkiller.com:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=nodefulcrum.mooo.com&fp=chrome&pbk=IhbpvWBZmJEzDs4eI2zoFmL_a-1J_7Z7Sepyrn7-xF8&sid=6547735997055a35#🇺🇸США
+vless://d56906f4-6742-4697-82f2-9354cc9d5b40@nodeskyline.chickenkiller.com:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=nodefulcrum.mooo.com&fp=chrome&pbk=IhbpvWBZmJEzDs4eI2zoFmL_a-1J_7Z7Sepyrn7-xF8&sid=6547735997055a35#🇯🇵Япония
